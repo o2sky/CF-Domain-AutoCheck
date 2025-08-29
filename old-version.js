@@ -2,8 +2,8 @@
 /*使用KV存储域名信息*/
 
 // iconfont阿里巴巴图标库
-const ICONFONT_CSS = '//at.alicdn.com/t/c/font_4973034_ehjc2dhuu76.css';
-const ICONFONT_JS = '//at.alicdn.com/t/c/font_4973034_ehjc2dhuu76.js';
+const ICONFONT_CSS = '//at.alicdn.com/t/c/font_4973034_1qunj5fctpb.css';
+const ICONFONT_JS = '//at.alicdn.com/t/c/font_4973034_1qunj5fctpb.js';
 
 // 网站图标和背景图片，可在环境变量中设置
 const DEFAULT_LOGO = 'https://cdn.jsdelivr.net/gh/kamanfaiz/CF-Domain-AutoCheck@main/img/logo.png'; // 默认Logo图片，外置变量名为LOGO_URL
